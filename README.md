@@ -1,8 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Nomaan Munshi — Java Developer" width="100%" />
-</picture>
+<img
+  src="./nomaan-video-hero-holiday-java.gif"
+  alt="Nomaan Munshi — Java Developer"
+  width="100%"
+/>
 
 <p align="center">
   <a href="https://github.com/nomannn13">GitHub</a> ·
