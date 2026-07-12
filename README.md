@@ -1,3 +1,5 @@
+<div align="center">
+
 <img
   src="./light.svg"
   alt="Nomaan Munshi — Java and Spring Boot Developer"
@@ -6,63 +8,28 @@
 
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nomaan-munshi">
-    <img src="https://img.shields.io/badge/LinkedIn-Nomaan%20Munshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:nomaanmunshii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nomaanmunshii%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/nomaan-munshi">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:nomaanmunshii@gmail.com">Email</a>
+
+</div>
 
 ---
 
 ## About Me
 
-I am an Information and Communications Engineering student at the **University of Trento, Italy**, focused on building backend and full-stack applications with **Java and Spring Boot**.
+I am an Information and Communications Engineering student at the **University of Trento, Italy**, focused on backend and full-stack development with **Java and Spring Boot**.
 
-I enjoy learning how real software systems are designed, secured, tested and deployed. My current interests include backend engineering, Spring Security, REST APIs, PKI/TLS, automation and software architecture.
+I am especially interested in:
 
-- Based in Trento, Italy
-- Studying Information and Communications Engineering
-- Building with Java, Spring Boot, MySQL and Docker
-- Learning more about PKI, TLS and backend security
-- Interested in software engineering and cybersecurity internships
-- Outside coding: hiking, travelling and turning crazy ideas into projects
+- Java and object-oriented programming
+- Spring Boot and Spring Security
+- REST API development
+- MySQL, Redis and Docker
+- PKI, TLS and backend security
+- Automation and software architecture
 
----
-
-## Tech Stack
-
-### Backend and Security
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
-  <img src="https://img.shields.io/badge/PKI%20%2F%20TLS-2563EB?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="PKI and TLS">
-</p>
-
-### Databases and Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-</p>
-
-### Frontend and Tools
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
+Outside coding, I enjoy hiking, travelling, discovering new places and turning unusual ideas into real projects.
 
 ---
 
@@ -70,31 +37,27 @@ I enjoy learning how real software systems are designed, secured, tested and dep
 
 ### Synapse HEA — Hospital Management System
 
-A production-minded full-stack healthcare management platform built with **Java 21, Spring Boot, React, TypeScript, MySQL, Redis, Docker and Nginx**.
+A full-stack healthcare management system built with **Java 21, Spring Boot, React, TypeScript, MySQL, Redis, Docker and Nginx**.
 
-Key areas:
+Main areas:
 
 - Authentication and role-based access
 - Spring Security and JWT
 - Appointment management
 - Medical records and prescriptions
 - Billing and invoice generation
-- REST APIs and API documentation
-- Redis caching and live notifications
-- Docker-based deployment
+- REST APIs and Swagger documentation
+- Redis caching and notifications
+- Docker-based development
 - GitHub Actions continuous integration
 
-[View repository](https://github.com/nomannn13/synapse-hea-healthcare-system)
-
----
+[View Synapse HEA](https://github.com/nomannn13/synapse-hea-healthcare-system)
 
 ### Krotoski Łódź Digital Twin
 
-A digital-twin project created for showroom operations, developed using **React, TypeScript and modern web technologies**.
+A digital-twin project for showroom operations, developed using **React, TypeScript and modern web technologies**.
 
-The project explores how digital interfaces and data-driven systems can represent and improve real-world business processes.
-
-[View repository](https://github.com/nomannn13/tac-krotoski-lodz-digital-twin)
+[View the Digital Twin project](https://github.com/nomannn13/tac-krotoski-lodz-digital-twin)
 
 ---
 
@@ -116,3 +79,21 @@ public class CurrentFocus {
         System.out.println("Learn. Build. Break. Fix. Repeat.");
     }
 }
+```
+
+---
+
+## Education
+
+**Bachelor of Science in Information and Communications Engineering**  
+University of Trento, Italy
+
+Relevant areas include programming, computer architecture, databases, networking, operating systems, software engineering, probability, electronics and signal processing.
+
+---
+
+<div align="center">
+
+**Open to software engineering, backend and security-focused internship opportunities.**
+
+</div>
