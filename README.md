@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I am an Information and Communications Engineering student at the **University of Trento, Italy**, focused on backend and full-stack development with **Java and Spring Boot**.
 
@@ -31,14 +31,14 @@ I enjoy understanding how real software systems are designed, secured, tested an
 - 🔐 Learning more about PKI, TLS and backend security
 - 💼 Open to software engineering and security-focused internships
 - 🥾 Outside coding: hiking, travelling and turning unusual ideas into projects
-- 
+  
 ---
 ### 🤖 AI-Assisted Development
 
 I use AI-assisted development tools to accelerate research, prototyping, debugging, testing and documentation. I review and validate the generated output, adapt it to the project’s architecture and make sure I understand the final implementation.
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend and Security
 
@@ -73,9 +73,9 @@ I use AI-assisted development tools to accelerate research, prototyping, debuggi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏥 Synapse HEA — Hospital Management System
+### Synapse HEA — Hospital Management System
 
 A production-minded healthcare management platform built with **Java 21, Spring Boot, React, TypeScript, MySQL, Redis, Docker and Nginx**.
 
@@ -95,7 +95,7 @@ Key areas:
 
 ---
 
-### 🏎️ Krotoski Łódź Digital Twin
+### Krotoski Łódź Digital Twin
 
 A digital-twin project created for showroom operations using **React, TypeScript and modern web technologies**.
 
@@ -105,7 +105,7 @@ The project explores how digital interfaces and data-driven systems can represen
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```java
 public class CurrentFocus {
@@ -127,7 +127,7 @@ public class CurrentFocus {
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Science in COMPUTER,Communication & Electronics Engineering**  
 University of Trento, Italy
@@ -138,7 +138,7 @@ Relevant areas include programming, computer architecture, databases, networking
 
 <div align="center">
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <a href="https://www.linkedin.com/in/nomaan-munshi">
   <img src="https://img.shields.io/badge/LinkedIn-Nomaan%20Munshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
