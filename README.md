@@ -31,7 +31,7 @@ I enjoy understanding how real software systems are designed, secured, tested an
 - 🔐 Learning more about PKI, TLS and backend security
 - 💼 Open to software engineering and security-focused internships
 - 🥾 Outside coding: hiking, travelling and turning unusual ideas into projects
-
+- 
 ---
 ### 🤖 AI-Assisted Development
 
