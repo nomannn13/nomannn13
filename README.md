@@ -33,6 +33,10 @@ I enjoy understanding how real software systems are designed, secured, tested an
 - 🥾 Outside coding: hiking, travelling and turning unusual ideas into projects
 
 ---
+### 🤖 AI-Assisted Development
+
+I use AI-assisted development tools to accelerate research, prototyping, debugging, testing and documentation. I review and validate the generated output, adapt it to the project’s architecture and make sure I understand the final implementation.
+
 
 ## 🛠️ Tech Stack
 
