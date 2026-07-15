@@ -132,7 +132,7 @@ public class CurrentFocus {
 **Bachelor of Science in Computer,Communication & Electronics Engineering**  
 University of Trento, Italy
 
-Relevant areas include programming, computer architecture, databases, networking, operating systems, software engineering, probability, electronics and signal processing.
+Relevant areas include programming, computer architecture, databases, networking, operating systems, software engineering, probability, electronics and signal processing, physics and calculus (i love maths but in my dreams hahaha, just kidding tho).
 
 ---
 
