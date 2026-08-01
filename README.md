@@ -1,106 +1,238 @@
 <div align="center">
-Nomaan Munshi
-Backend Engineering · Java · Spring Boot · Security
-Information and Communications Engineering student at the University of Trento, Italy, interested in building secure, reliable and maintainable software systems.
-LinkedIn · Email · GitHub
-Based in Trento, Italy · Open to software engineering, backend and security-focused internships
-</div>
-About Me
-I am an Information and Communications Engineering student who enjoys understanding how real software systems work beyond the user interface.
-My main focus is backend engineering with Java and Spring Boot. I am especially interested in API design, authentication, application security, databases, automation, deployment and software architecture.
-I like building projects that resemble real products: systems with clear domain models, secure access control, reliable data flows, useful operational visibility and maintainable code.
-Outside software, I enjoy hiking, travelling and turning unusual ideas into practical projects.
-What I Work With
-Area
-Technologies and Concepts
-Backend Development
-Java, Spring Boot, Spring MVC, REST APIs, JPA/Hibernate
-Security
-Spring Security, JWT, authentication, authorization, PKI, TLS, X.509 certificates
-Data
-MySQL, SQL, Redis, database modelling, caching
-Infrastructure
-Docker, Nginx, GitHub Actions, CI/CD, Linux
-Frontend
-React, TypeScript, JavaScript
-Testing and Tools
-JUnit, Postman, Swagger/OpenAPI, Git, Maven
-Currently Exploring
-Kafka, distributed systems, observability, backend automation, software architecture
-Featured Projects
-Synapse HEA — Healthcare Management System
-A production-oriented healthcare platform built to manage users, appointments, medical records, prescriptions, billing and administrative workflows.
-Core stack: Java 21, Spring Boot, Spring Security, React, TypeScript, MySQL, Redis, Docker and Nginx.
-Key engineering areas
-Authentication and role-based authorization
-JWT-based security and protected API workflows
-Appointment, medical-record and prescription management
-Billing and invoice generation
-REST API design and OpenAPI documentation
-Redis caching and live notification flows
-Database migrations and structured persistence
-Docker-based deployment and GitHub Actions CI
-View the Synapse HEA repository →
-Krotoski Łódź Digital Twin
-A digital-twin project created around showroom operations using React, TypeScript and modern web technologies.
-The project explores how digital interfaces and data-driven workflows can represent real business processes, improve visibility and support operational decision-making.
-Key engineering areas
-Interactive frontend development
-Component-based application design
-Real-world process modelling
-Data-driven operational views
-Collaborative software development
-View the Krotoski Łódź repository →
-Current Focus
-I am currently strengthening the areas that matter most for backend and security engineering:
-Advanced Java and object-oriented design
-Spring Boot application architecture
-Spring Security and secure authentication flows
-PKI, TLS and X.509 certificate handling
-Backend automation and integration workflows
-Reliable API and database design
-Docker, CI/CD and deployment fundamentals
-Distributed systems and event-driven architecture
-public final class CurrentFocus {
 
-    private final String mission =
-        "Learn deeply. Build carefully. Test properly. Improve continuously.";
+<img
+  src="./light.svg"
+  alt="Nomaan Munshi — Java and Spring Boot Developer"
+  width="100%"
+/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/nomaan-munshi">
+  <img src="https://img.shields.io/badge/LinkedIn-Nomaan%20Munshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:nomaanmunshii@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nomaanmunshii%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<strong>Information and Communications Engineering Student @ University of Trento</strong><br>
+Backend Engineering • Java • Spring Boot • Security • PKI/TLS
+
+</div>
+
+---
+
+## ✨ Profile Snapshot
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>👨‍💻 About Me</h3>
+
+<p>
+I am an <strong>Information and Communications Engineering</strong> student at the
+<strong>University of Trento, Italy</strong>, focused on backend and full-stack development with
+<strong>Java</strong> and <strong>Spring Boot</strong>.
+</p>
+
+<p>
+I enjoy understanding how real software systems are designed, secured, tested and deployed.
+My current interests include backend engineering, Spring Security, REST APIs, PKI/TLS,
+automation and software architecture.
+</p>
+
+<ul>
+  <li>📍 Based in Trento, Italy</li>
+  <li>🎓 Studying Information and Communications Engineering</li>
+  <li>☕ Building with Java, Spring Boot, MySQL and Docker</li>
+  <li>🔐 Learning more about PKI, TLS and backend security</li>
+  <li>💼 Open to software engineering and security-focused internships</li>
+  <li>🥾 Outside coding: hiking, travelling and turning unusual ideas into projects</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 AI-Assisted Development</h3>
+
+<p>
+I use AI-assisted development tools to accelerate research, prototyping, debugging,
+testing and documentation.
+</p>
+
+<p>
+I review and validate the generated output, adapt it to the project’s architecture
+and make sure I understand the final implementation.
+</p>
+
+<ul>
+  <li>⚡ Faster research and idea exploration</li>
+  <li>🛠️ Better prototyping and debugging workflows</li>
+  <li>🧪 Support for testing and documentation</li>
+  <li>✅ Manual review and validation of outputs</li>
+  <li>🧠 Strong focus on understanding the final solution</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>Backend & Security</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/PKI%20%2F%20TLS-2563EB?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="PKI and TLS">
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>Databases & Infrastructure</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>Frontend & Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏥 Synapse HEA</h3>
+<p><strong>Hospital Management System</strong></p>
+
+<p>
+A production-minded healthcare management platform built with
+<strong>Java 21, Spring Boot, React, TypeScript, MySQL, Redis, Docker and Nginx</strong>.
+</p>
+
+<p><strong>Key areas:</strong></p>
+<ul>
+  <li>Authentication and role-based access</li>
+  <li>Spring Security and JWT</li>
+  <li>Appointment management</li>
+  <li>Medical records and prescriptions</li>
+  <li>Billing and invoice generation</li>
+  <li>REST APIs and API documentation</li>
+  <li>Redis caching and live notifications</li>
+  <li>Docker-based deployment</li>
+  <li>GitHub Actions continuous integration</li>
+</ul>
+
+<p>
+  <a href="https://github.com/nomannn13/synapse-hea-healthcare-system">View repository →</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚘 Krotoski Łódź Digital Twin</h3>
+<p><strong>Digital Twin / Showroom Operations Project</strong></p>
+
+<p>
+A digital-twin project created for showroom operations using
+<strong>React, TypeScript and modern web technologies</strong>.
+</p>
+
+<p>
+The project explores how digital interfaces and data-driven systems can represent
+and improve real-world business processes.
+</p>
+
+<p><strong>Highlights:</strong></p>
+<ul>
+  <li>Interactive frontend experience</li>
+  <li>Modern React + TypeScript workflow</li>
+  <li>Business-process oriented system design</li>
+  <li>Real-world digital representation concepts</li>
+</ul>
+
+<p>
+  <a href="https://github.com/nomannn13/tac-krotoski-lodz-digital-twin">View repository →</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td valign="top">
+
+<ul>
+  <li>Advanced Java</li>
+  <li>Spring Boot</li>
+  <li>Spring Security</li>
+  <li>PKI and TLS</li>
+  <li>Backend Automation</li>
+  <li>Software Architecture</li>
+</ul>
+
+<p><strong>Learn. Build. Break. Fix. Repeat.</strong></p>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Code version</strong></summary>
+
+```java
+public class CurrentFocus {
+
+    private final String[] learning = {
+        "Advanced Java",
+        "Spring Boot",
+        "Spring Security",
+        "PKI and TLS",
+        "Backend Automation",
+        "Software Architecture"
+    };
 
     public void keepBuilding() {
-        System.out.println(mission);
+        System.out.println("Learn. Build. Break. Fix. Repeat.");
     }
 }
-​
-Engineering Principles
-Understand before abstracting — I prefer knowing how a system works before hiding it behind frameworks.
-Security is part of the design — authentication and authorization should not be added at the end.
-Readable code matters — maintainability is a feature.
-Failures should be expected — reliable systems need validation, testing, retries and useful error handling.
-Projects should solve real problems — I enjoy building systems with practical workflows rather than isolated demos.
-AI-Assisted Development
-I use AI-assisted development tools to accelerate research, prototyping, debugging, testing and documentation.
-I review and validate generated output, adapt it to the project architecture and make sure I understand the final implementation. AI supports the workflow; responsibility for engineering decisions and code quality remains with me.
-Education
-University of Trento — Trento, Italy
-Bachelor's Degree in Information and Communications Engineering
-Relevant areas include:
-Programming and software engineering
-Databases and computer networks
-Operating systems and computer architecture
-Probability and mathematics
-Electronics and signal processing
-Physics and calculus
-What I Am Looking For
-I am open to internships and project opportunities involving:
-Java and Spring Boot backend development
-Software engineering
-Application and backend security
-PKI, TLS and certificate automation
-REST API development
-Infrastructure and developer tooling
-Distributed and event-driven systems
-<div align="center">
-Connect
-LinkedIn · Email
-Building useful systems, learning deeply and turning ambitious ideas into working software.
-</div>
