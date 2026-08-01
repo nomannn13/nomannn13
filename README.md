@@ -24,13 +24,13 @@ Backend Engineering • Java • Spring Boot • Security • PKI/TLS
 
 ---
 
-## ✨ Profile Snapshot
+##  Profile Snapshot
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>👨‍💻 About Me</h3>
+<h3> About Me</h3>
 
 <p>
 I am an <strong>Information and Communications Engineering</strong> student at the
