@@ -15,32 +15,80 @@
   <img src="https://img.shields.io/badge/Email-nomaanmunshii%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
+<br><br>
+
+<strong>Information and Communications Engineering Student @ University of Trento</strong><br>
+Backend Engineering • Java • Spring Boot • Security • PKI/TLS
+
 </div>
 
 ---
 
-##  About Me
+## ✨ Profile Snapshot
 
-I am an Information and Communications Engineering student at the **University of Trento, Italy**, focused on backend and full-stack development with **Java and Spring Boot**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy understanding how real software systems are designed, secured, tested and deployed. My current interests include backend engineering, Spring Security, REST APIs, PKI/TLS, automation and software architecture.
+<h3>👨‍💻 About Me</h3>
 
-- 📍 Based in Trento, Italy
-- 🎓 Studying Information and Communications Engineering
-- ☕ Building with Java, Spring Boot, MySQL and Docker
-- 🔐 Learning more about PKI, TLS and backend security
-- 💼 Open to software engineering and security-focused internships
-- 🥾 Outside coding: hiking, travelling and turning unusual ideas into projects
-  
+<p>
+I am an <strong>Information and Communications Engineering</strong> student at the
+<strong>University of Trento, Italy</strong>, focused on backend and full-stack development with
+<strong>Java</strong> and <strong>Spring Boot</strong>.
+</p>
+
+<p>
+I enjoy understanding how real software systems are designed, secured, tested and deployed.
+My current interests include backend engineering, Spring Security, REST APIs, PKI/TLS,
+automation and software architecture.
+</p>
+
+<ul>
+  <li>📍 Based in Trento, Italy</li>
+  <li>🎓 Studying Information and Communications Engineering</li>
+  <li>☕ Building with Java, Spring Boot, MySQL and Docker</li>
+  <li>🔐 Learning more about PKI, TLS and backend security</li>
+  <li>💼 Open to software engineering and security-focused internships</li>
+  <li>🥾 Outside coding: hiking, travelling and turning unusual ideas into projects</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 AI-Assisted Development</h3>
+
+<p>
+I use AI-assisted development tools to accelerate research, prototyping, debugging,
+testing and documentation.
+</p>
+
+<p>
+I review and validate the generated output, adapt it to the project’s architecture
+and make sure I understand the final implementation.
+</p>
+
+<ul>
+  <li>⚡ Faster research and idea exploration</li>
+  <li>🛠️ Better prototyping and debugging workflows</li>
+  <li>🧪 Support for testing and documentation</li>
+  <li>✅ Manual review and validation of outputs</li>
+  <li>🧠 Strong focus on understanding the final solution</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
 ---
-###  AI-Assisted Development
 
-I use AI-assisted development tools to accelerate research, prototyping, debugging, testing and documentation. I review and validate the generated output, adapt it to the project’s architecture and make sure I understand the final implementation.
+## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="33%" valign="top">
 
-##  Tech Stack
-
-### Backend and Security
+<h3>Backend & Security</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -50,7 +98,10 @@ I use AI-assisted development tools to accelerate research, prototyping, debuggi
   <img src="https://img.shields.io/badge/PKI%20%2F%20TLS-2563EB?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="PKI and TLS">
 </p>
 
-### Databases and Infrastructure
+</td>
+<td width="33%" valign="top">
+
+<h3>Databases & Infrastructure</h3>
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -60,7 +111,10 @@ I use AI-assisted development tools to accelerate research, prototyping, debuggi
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-### Frontend and Development Tools
+</td>
+<td width="33%" valign="top">
+
+<h3>Frontend & Tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -71,41 +125,100 @@ I use AI-assisted development tools to accelerate research, prototyping, debuggi
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
----
-
-## Featured Projects
-
-### Synapse HEA — Hospital Management System
-
-A production-minded healthcare management platform built with **Java 21, Spring Boot, React, TypeScript, MySQL, Redis, Docker and Nginx**.
-
-Key areas:
-
-- Authentication and role-based access
-- Spring Security and JWT
-- Appointment management
-- Medical records and prescriptions
-- Billing and invoice generation
-- REST APIs and API documentation
-- Redis caching and live notifications
-- Docker-based deployment
-- GitHub Actions continuous integration
-
-[View repository →](https://github.com/nomannn13/synapse-hea-healthcare-system)
+</td>
+</tr>
+</table>
 
 ---
 
-### Krotoski Łódź Digital Twin
+## 🚀 Featured Projects
 
-A digital-twin project created for showroom operations using **React, TypeScript and modern web technologies**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-The project explores how digital interfaces and data-driven systems can represent and improve real-world business processes.
+<h3>🏥 Synapse HEA</h3>
+<p><strong>Hospital Management System</strong></p>
 
-[View repository →](https://github.com/nomannn13/tac-krotoski-lodz-digital-twin)
+<p>
+A production-minded healthcare management platform built with
+<strong>Java 21, Spring Boot, React, TypeScript, MySQL, Redis, Docker and Nginx</strong>.
+</p>
+
+<p><strong>Key areas:</strong></p>
+<ul>
+  <li>Authentication and role-based access</li>
+  <li>Spring Security and JWT</li>
+  <li>Appointment management</li>
+  <li>Medical records and prescriptions</li>
+  <li>Billing and invoice generation</li>
+  <li>REST APIs and API documentation</li>
+  <li>Redis caching and live notifications</li>
+  <li>Docker-based deployment</li>
+  <li>GitHub Actions continuous integration</li>
+</ul>
+
+<p>
+  <a href="https://github.com/nomannn13/synapse-hea-healthcare-system">View repository →</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚘 Krotoski Łódź Digital Twin</h3>
+<p><strong>Digital Twin / Showroom Operations Project</strong></p>
+
+<p>
+A digital-twin project created for showroom operations using
+<strong>React, TypeScript and modern web technologies</strong>.
+</p>
+
+<p>
+The project explores how digital interfaces and data-driven systems can represent
+and improve real-world business processes.
+</p>
+
+<p><strong>Highlights:</strong></p>
+<ul>
+  <li>Interactive frontend experience</li>
+  <li>Modern React + TypeScript workflow</li>
+  <li>Business-process oriented system design</li>
+  <li>Real-world digital representation concepts</li>
+</ul>
+
+<p>
+  <a href="https://github.com/nomannn13/tac-krotoski-lodz-digital-twin">View repository →</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td valign="top">
+
+<ul>
+  <li>Advanced Java</li>
+  <li>Spring Boot</li>
+  <li>Spring Security</li>
+  <li>PKI and TLS</li>
+  <li>Backend Automation</li>
+  <li>Software Architecture</li>
+</ul>
+
+<p><strong>Learn. Build. Break. Fix. Repeat.</strong></p>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Code version</strong></summary>
 
 ```java
 public class CurrentFocus {
@@ -123,32 +236,3 @@ public class CurrentFocus {
         System.out.println("Learn. Build. Break. Fix. Repeat.");
     }
 }
-```
-
----
-
-## Education
-
-**Bachelor of Science in Computer,Communication & Electronics Engineering**  
-University of Trento, Italy
-
-Relevant areas include programming, computer architecture, databases, networking, operating systems, software engineering, probability, electronics and signal processing, physics and calculus (i love maths but in my dreams hahaha, just kidding tho).
-
----
-
-<div align="center">
-
-### Connect With Me
-
-<a href="https://www.linkedin.com/in/nomaan-munshi">
-  <img src="https://img.shields.io/badge/LinkedIn-Nomaan%20Munshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:nomaanmunshii@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nomaanmunshii%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
-
-<i>Building useful systems, exploring new places and occasionally having crazy project ideas.</i>
-
-</div>
